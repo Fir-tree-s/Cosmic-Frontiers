@@ -24,4 +24,7 @@
 - Singularity
 - Scaterer
 - scaled decor
+## instalation guide
+- install both core And the systém you want to play
+- unzip the them And put the gamedata folder into the map folder 
 
