@@ -24,7 +24,10 @@
 - Singularity
 - Scaterer
 - scaled decor
-## instalation guide
-- install both core And the systém you want to play
-- unzip the them And put the gamedata folder into the map folder 
+## installation guide
+- install both core and the system you want to play
+- unzip the them And put the gamedata folder into the map folder
+## credits
+- ProximaCentauri-star for inspiration on most configs
+
 
